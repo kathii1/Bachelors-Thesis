@@ -1,3 +1,12 @@
+## Installation / Requirements
+
+Um den Code auszuführen, zunächst die benötigten Python-Pakete installieren.  
+Dazu im Projektordner folgenden Befehl in der Konsole ausführen:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Projektbeschreibung
 
 Dieses Repository enthält den Programmcode zu meiner Bachelorarbeit (Stand: April 2023)  
